@@ -21,8 +21,10 @@ what I can share:
 - [k8s-slo-lab](https://github.com/navaneeth-c/k8s-slo-lab) — an SLO, an error budget, and
   multi-window burn-rate alerts running end to end on a local kind cluster, with a
   one-command way to break the service and watch the alert fire.
-- [PAM web access for Infisical](https://github.com/Infisical/infisical/pull/7380) — a
-  ~900-line feature PR against their codebase (closed in favor of their roadmap; notes in
-  the PR).
+- [infisical-pam-experiment](https://github.com/navaneeth-c/infisical-pam-experiment) —
+  an experiment on the Infisical codebase: a PAM Web account type with browser session
+  recording, ~900 lines
+  ([upstream PR](https://github.com/Infisical/infisical/pull/7380), closed in favor of
+  their roadmap).
 
 [LinkedIn](https://linkedin.com/in/navaneeth-c)
